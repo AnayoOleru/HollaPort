@@ -148,7 +148,6 @@ const styles = {
         paddingLeft: 70,
         backgroundColor: 'rgba(0, 0, 0, 0.35)',
         color: 'white',
-        marginHoriontal: 25
     },
     dateText: {
         color: 'white',
