@@ -1,6 +1,10 @@
 # HollaPort
 #### Hollaport App built with React-Native
 
+## Demo on expo
+
+https://exp.host/@anayooleru/hollaport
+
 ![Image of HollaPort](https://res.cloudinary.com/dvfr0z8wr/image/upload/v1575151466/Screenshot_2019-11-30_at_11.01.11_PM.png)![Image of HollaPort](https://res.cloudinary.com/dvfr0z8wr/image/upload/v1575151466/Screenshot_2019-11-30_at_11.02.58_PM.png)
 
 ![Image of HollaPort](https://res.cloudinary.com/dvfr0z8wr/image/upload/v1575151466/Screenshot_2019-11-30_at_11.02.58_PM.png)
